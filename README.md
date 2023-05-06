@@ -37,6 +37,8 @@ and you should be able to install any of these versions.
 
 [![Install this repository](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fkhenderick%2Fesphome-legacy-addons)
 
+If nothing shows up after adding the repo, refresh the page.
+
 ## Credits
 
 Thanks to the ESPHome team for making such an awesome product.
