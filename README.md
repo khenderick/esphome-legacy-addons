@@ -25,7 +25,7 @@ as an archive to bridge the time between a bug appearing in a new version, and i
 later version.
 
 Using this repo to rant about bugs introduced in ESPHome will _not_ be tolerated. The team behind ESPHome
-and the tons of volunteers try there best to get everything working as good as possible.
+and the tons of volunteers try their best to get everything working as good as possible.
 
 If you find an issue with this addon or have a good idea to enhance its functionality, feel free to
 report here.
