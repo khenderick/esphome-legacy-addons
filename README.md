@@ -27,8 +27,15 @@ later version.
 Using this repo to rant about bugs introduced in ESPHome will _not_ be tolerated. The team behind ESPHome
 and the tons of volunteers try there best to get everything working as good as possible.
 
-If you find an issue with this addon or have a good idea to enhance it's functionality, feel free to
+If you find an issue with this addon or have a good idea to enhance its functionality, feel free to
 report here.
+
+## How to install
+
+Go to you Home Assistant's Add-on Store and add this as repository. Check for updates (and if needed, refresh),
+and you should be able to install any of these versions.
+
+[![Install this repository](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fkhenderick%2Fesphome-legacy-addons)
 
 ## Credits
 
