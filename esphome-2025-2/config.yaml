@@ -31,8 +31,8 @@ schema:
 backup_exclude:
 - '*/*/'
 init: false
-name: ESPHome 2023.2
-version: 2023.2.4
-slug: esphome-legacy-2023-2
-description: ESPHome legacy add-on (version 2023.2.4)
+name: ESPHome 2025.2
+version: 2025.2.2
+slug: esphome-legacy-2025.2
+description: ESPHome legacy add-on (version 2025.2.2)
 image: ghcr.io/esphome/esphome-hassio
