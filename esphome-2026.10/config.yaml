@@ -32,7 +32,7 @@ init: false
 startup: services
 name: ESPHome 2026.10
 panel_title: ESPHome 2026.10
-version: 2026.10
+version: "2026.10"
 slug: esphome-legacy-2026.10
 description: ESPHome legacy add-on (version 2026.10)
 image: ghcr.io/esphome/esphome-hassio
