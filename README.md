@@ -1,5 +1,11 @@
 # ESPHome legacy addons
 
+## :warning: Using a legacy version? Please create an issue!
+
+This repo exists for a while and to keep the amount of legacy versions under control, please report an issue 
+to _this repo_ with the version you're using. Please also mention the ESPHome issue number that causes you to
+stick to this legacy version. This way the version can be cleaned up here when the ESPHome issue gets resolved.
+
 ## About
 
 Even though the developers of ESPHome take care of not breaking any devices out there (and even 
